@@ -1,4 +1,4 @@
-update=03.05.2021 13:57:04
+update=19.05.2021 21:31:49
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=rgbw-2.net
+LastNetListRead=ESP-RGBW-3S.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
