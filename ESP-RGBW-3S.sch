@@ -1730,13 +1730,11 @@ F 3 "~" H 1050 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 2000 3000 1    50   Input ~ 0
-TXD
+Green
 Text GLabel 1050 3000 1    50   Input ~ 0
 White
 Wire Wire Line
 	2000 3000 2000 3500
-Text Label 2000 3350 0    50   ~ 0
-Green
 Text GLabel 1700 3000 1    50   Input ~ 0
 Red
 Wire Wire Line
@@ -1755,7 +1753,10 @@ Text GLabel 1850 2050 0    50   Input ~ 0
 Blue
 Wire Wire Line
 	2300 1950 1850 1950
-Text GLabel 1850 1950 0    50   Input ~ 0
+Text GLabel 1850 1850 0    50   Input ~ 0
 Red
-NoConn ~ 2300 1850
+Text GLabel 1850 1950 0    50   Input ~ 0
+Green
+Wire Wire Line
+	2300 1850 1850 1850
 $EndSCHEMATC
