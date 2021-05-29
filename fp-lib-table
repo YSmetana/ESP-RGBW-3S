@@ -4,4 +4,5 @@
   (lib (name lm2596-model-for-kicad-1.snapshot)(type KiCad)(uri ${KIPRJMOD}/libraries/lm2596-model-for-kicad-1.snapshot.12A)(options "")(descr ""))
   (lib (name usini_kicad_sensors-main)(type KiCad)(uri ${KIPRJMOD}/libraries/usini_kicad_sensors-main)(options "")(descr ""))
   (lib (name open-hardware-logo)(type KiCad)(uri ${KIPRJMOD}/libraries/open-hardware-logo)(options "")(descr ""))
+  (lib (name MP1584)(type KiCad)(uri ${KIPRJMOD}/libraries/MP1584)(options "")(descr ""))
 )

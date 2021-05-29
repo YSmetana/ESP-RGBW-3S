@@ -2,4 +2,5 @@
   (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/libraries/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
   (lib (name yaaj_dcdc_stepdown_lm2596)(type Legacy)(uri ${KIPRJMOD}/libraries/lm2596-model-for-kicad-1.snapshot.12A/yaaj_dcdc_stepdown_lm2596.lib)(options "")(descr ""))
   (lib (name usini_sensors)(type Legacy)(uri ${KIPRJMOD}/libraries/usini_kicad_sensors-main/usini_sensors.lib)(options "")(descr ""))
+  (lib (name MP1584)(type Legacy)(uri ${KIPRJMOD}/libraries/MP1584/MP1584.lib)(options "")(descr ""))
 )
