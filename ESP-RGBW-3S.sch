@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ESP-RGBW-3S"
-Date ""
+Date "2021-05-30"
 Rev "0.4"
 Comp "Yuriy Smetana"
 Comment1 ""
@@ -383,12 +383,12 @@ $Comp
 L Device:R R9
 U 1 1 6094FB34
 P 5300 1500
-F 0 "R9" H 5370 1546 50  0000 L CNN
-F 1 "4K7" H 5370 1455 50  0000 L CNN
+F 0 "R9" H 5100 1450 50  0000 L CNN
+F 1 "4K7" H 5050 1550 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 5230 1500 50  0001 C CNN
 F 3 "~" H 5300 1500 50  0001 C CNN
 	1    5300 1500
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	4100 3050 4100 3150
